@@ -7,7 +7,7 @@ Recommendation systems are becoming increasingly important in today’s extremel
 
 The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies. This is achieved through predictive modeling and heuristics with the data available.
 
-Types of Recommendation System :
+# Types of Recommendation System :
 1 ) Content Based :
 Content-based systems, which use characteristic information and takes item attriubutes into consideration .
 
@@ -51,20 +51,20 @@ Combination of both and used now a days .
 Uses : word2vec , embedding .
 
 
-About this project:
+# About this project:
 This is a collaborative filtering based books recommender system & a streamlit web application that can recommend various kinds of similar books based on an user interest.
 <p align="center">
-  <img src="books_recommender/imgRdme.jpeg" alt="Project Image" />
+  <img src="books_recommender/app_output_img.png" alt="Project Image" />
 </p>
 <p align="center">
-  <img src="books_recommender/imgRdme.jpeg" alt="Project Image" />
+  <img src="books_recommender/app_output_img1.png" alt="Project Image" />
 </p>
 
-Dataset :
+# Dataset :
 You can find the dataset for this project [here](https://www.kaggle.com/datasets/ra4u12/bookrecommendation).
 
 
-Concept used to build the model.pkl file : NearestNeighbors
+# Concept used to build the model.pkl file : NearestNeighbors
 1 . Load the data
 
 2 . Initialise the value of k
